@@ -9,8 +9,6 @@ public class Tester {
 
 	public static void main(String[] args) {
 		
-		System.out.println("this is a test");
-		
 		/*CustomerList cList = new CustomerList();
 		ArrayList<Customer> customers = cList.getCustomers();
 		
