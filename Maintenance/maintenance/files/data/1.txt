@@ -1,0 +1,5 @@
+customer|1|Zdeno|Chara|bigZ@gmail.com|y
+car|0|1|Chevrolet|Corvette|2015|1234|5W-20|7000|y
+serviceRecord|0|0|1405384045860|1500|y|25.5|OILCHANGE
+serviceRecord|1|0|1405283245860|2500|y|27.25|OILCHANGE
+serviceRecord|2|0|1405182445860|3200|y|17.25|OILCHANGE

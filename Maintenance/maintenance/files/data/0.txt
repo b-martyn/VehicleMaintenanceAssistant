@@ -1,0 +1,6 @@
+customer|0|Brian|Martyn|brianmartyn84@gmail.com|y
+car|0|0|Jeep|Wrangler|2002|Bosch 3402|10W-30|3000|y
+car|1|0|Toyota|Rav4|2010|Bosch 3972|5W-20|5000|y
+serviceRecord|0|0|1405411266500|150000|y|25.5|OILCHANGE
+serviceRecord|1|1|1407421266500|75000|y|27.25|OILCHANGE
+serviceRecord|2|0|1407421266500|153000|y|17.25|OILCHANGE
